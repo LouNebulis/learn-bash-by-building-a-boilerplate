@@ -47,3 +47,5 @@ touch styles.css
 ls --color=auto
 cd index.js
 touch index.js
+.g
+touch .gitignore
