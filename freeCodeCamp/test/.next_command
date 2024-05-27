@@ -50,3 +50,5 @@ touch index.js
 .g
 touch .gitignore
 ls --color=auto
+ls --color=auto -a
+ls --color=auto --help
