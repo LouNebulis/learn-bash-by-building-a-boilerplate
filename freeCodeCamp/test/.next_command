@@ -20,3 +20,4 @@ cd node_modules/
 pwd
 ls --color=auto
 ls --color=auto -l
+cd has
