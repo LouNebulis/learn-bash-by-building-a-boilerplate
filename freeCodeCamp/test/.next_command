@@ -112,3 +112,4 @@ tuch roboto.font
 touch roboto.font
 cd website/
 touch roboto.font
+touch lato.font
