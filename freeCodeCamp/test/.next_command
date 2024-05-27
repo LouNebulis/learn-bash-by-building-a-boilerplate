@@ -49,3 +49,4 @@ cd index.js
 touch index.js
 .g
 touch .gitignore
+ls --color=auto
